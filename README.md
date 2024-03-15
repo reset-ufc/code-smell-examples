@@ -34,3 +34,6 @@ um resultado de componente principal incorreto.
 
 **Unnecessary Iteration:** Padrão de código que indica a presença de iterações repetitivas ou redundantes, que não são essenciais ou
 não contribuem para a funcionalidade ou eficiência do código.
+
+**Merge API Parameter Not Explicitly Set:** É um code smell que ocorre quando os parâmetros de mesclagem (merge) em uma API não são 
+explicitamente definidos ou configurados corretamente.
